@@ -1,0 +1,46 @@
+Tomaat — klaar om te uploaden na inloggen
+
+Privacy-URL
+https://raw.githubusercontent.com/Ralph8008/tomaat/main/privacy.html
+
+App-bundel
+Tomaat.aab  (versie 1.3.0, API 36)
+Ook: https://github.com/Ralph8008/tomaat/releases/tag/v1.3.0
+
+Naam
+Tomaat
+
+Korte omschrijving
+Pomodoro-timer. Jij kiest: pauze, nog vijf minuten, of stoppen.
+
+Volledige omschrijving
+Tomaat is een pomodoro-timer die niet voor je beslist.
+
+Als de tijd om is, kies je zelf: pauze nemen, nog vijf minuten doorgaan, of stoppen. Geen reeks. Geen straf als iemand je stoort.
+
+Kies Studie, Diep werk of Keuken. Zet er een taak bij voor dit blok. Alles blijft op je telefoon.
+
+Categorie
+Productiviteit
+
+Contact
+ralphppierik@gmail.com
+
+Data safety
+Er wordt niets verzameld en niets gedeeld. Timer, taken en notitie blijven op het apparaat.
+
+Beelden
+icon-512.png
+feature-1024x500.png
+screenshot-timer.png
+screenshot-keuze.png
+screenshot-taken.png
+
+Na het inloggen op play.google.com/console
+1. App maken, naam Tomaat, standaardtaal Nederlands, app, gratis.
+2. Dashboard: de bundel Tomaat.aab uploaden naar een productierelease of een interne test.
+3. Winkelvermelding: teksten hierboven, plus de vijf beelden.
+4. Privacy-URL plakken.
+5. Data safety: niets verzameld, niets gedeeld.
+6. Content rating: invullen als hulpmiddel, zonder geweld of gebruikersinteractie met anderen.
+7. Versturen ter beoordeling.
